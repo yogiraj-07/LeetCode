@@ -4,7 +4,7 @@
 
 var isPalindrome = function (x) {
 
-    If (x < 0) {
+    if (x < 0) {
         return false;
     }
 
